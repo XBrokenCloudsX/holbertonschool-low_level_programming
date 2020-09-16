@@ -1,1 +1,2 @@
-#undef $CFILE
+#!/bin/bash
+$CFILE > c
