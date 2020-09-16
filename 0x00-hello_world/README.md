@@ -1,0 +1,1 @@
+0-preprosessor = in this command we preproses one script and then redirect the answer to $CFILE
