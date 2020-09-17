@@ -1,2 +1,2 @@
-int main(void)
-gcc -E $CFILE main.c
+#!/bin/bash
+gcc -E $CFILE -o main.c
