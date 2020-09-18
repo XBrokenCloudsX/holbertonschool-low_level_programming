@@ -1,6 +1,6 @@
 #include <studio.h>
 int main(void)
 {
-  puts("Hello, World!"\n);
+  puts("Programming is like building a multilingual puzzle"\n);
   return 0;
 }
